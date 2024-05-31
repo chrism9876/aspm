@@ -1,0 +1,8 @@
+[Unit]
+Description=Disable aspm for atheros wifi
+
+[Service]
+ExecStart=/usr/bin/disableAspm.sh
+
+[Install]
+WantedBy=multi-user.target
