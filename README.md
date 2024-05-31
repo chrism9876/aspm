@@ -13,4 +13,4 @@ My ID is **01:00.0**
 
 Edit disableAspm.sh replacing ID
 
-run install.sh
+run install.sh as root
